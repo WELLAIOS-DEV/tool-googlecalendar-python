@@ -130,3 +130,7 @@ This example demonstrates the typical authorization flow when using the `Calenda
 
    - Now, try calling view_calendar in MCP Inspector once more.
    - This time, your server should have the necessary Google tokens, and you will see the upcoming events from your Google Calendar displayed in the response.
+
+## License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file.
