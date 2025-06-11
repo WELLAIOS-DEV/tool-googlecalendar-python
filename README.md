@@ -5,7 +5,7 @@ This tool leverages the **Google Calendar API** to enable AI agents to interact 
 
 ## Getting Started
 
-Follow these steps to set up and run your WELLAIOS GeoLocator server:
+Follow these steps to set up and run your WELLAIOS Calendar Assistant server:
 
 1. **Get Google Calendar API Credentials (Client ID & Client Secret)**
 
